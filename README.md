@@ -2,7 +2,7 @@
 DONE BY Au Ling Chi ,Erick
 Compile part
 dev environment:python 3.8
-
+*due to licence issue the server program cannot be uploaded
 Step 1
 start with initialize and create the tcp socket,with the aid with socket library of python.
 create an input variable which is the ip adress of the server.
